@@ -44,6 +44,7 @@
     "url": "git+ssh://git@github.com/isaacplmann/angular2-contextmenu.git"
   },
   "devDependencies": {
+    "@angular/cli": "^1.7.3",
     "@angular/common": "^2.4.1",
     "@angular/compiler": "^2.4.1",
     "@angular/compiler-cli": "^2.4.1",
